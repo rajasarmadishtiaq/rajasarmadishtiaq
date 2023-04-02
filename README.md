@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rajasarmadishtiaq
 - 👀 I’m interested in Data Science and Machine Learning
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning Deep Learning
 
 <!---
 rajasarmadishtiaq/rajasarmadishtiaq is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
